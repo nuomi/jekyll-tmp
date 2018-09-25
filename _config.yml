@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Nuomi's Site
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -14,6 +14,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 #
 # Flags below are optional
 #
+
+theme: minimal-mistakes-jekyll
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
