@@ -15,7 +15,8 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Flags below are optional
 #
 
-theme: jekyll-theme-midnight
+theme: jumbo-jekyll-theme
+#theme: jekyll-theme-midnight
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "mint" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #locale: "zh-CHT"	
