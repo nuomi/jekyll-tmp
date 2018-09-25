@@ -17,7 +17,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "mint" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-locale: "zh-CHT"	
+#locale: "zh-CHT"	
 
 
 # Includes an icon in the footer for each username you enter
@@ -78,7 +78,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
